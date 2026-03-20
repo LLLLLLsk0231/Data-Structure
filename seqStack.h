@@ -8,6 +8,7 @@ private:
     elemType *elem;
     int top_p;
     int maxSize;
+    int i;
     void doubleSpace();
 
 public:
