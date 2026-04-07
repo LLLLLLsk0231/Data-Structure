@@ -35,4 +35,5 @@ int main(){
     dfs(1,0,tree,total_num);
     cout<<total_num;
     delete[] tree;
+    return 0;
 }
